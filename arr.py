@@ -1,4 +1,4 @@
-arr_1 = [1, 23, 561, 5, 6]
+arr_1 = [6]
 
 # print(
 #     arr_1,
@@ -41,4 +41,5 @@ print(arr_2)
 print('arr_1', arr_1)
 
 print(id(arr_1))
+
 
